@@ -1,0 +1,38 @@
+/*******************************
+General
+********************************/
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+$font-family-sans-serif:		'Lato', "Helvitica Neue", Helvitica;	
+ 
+/*******************************
+Navigation
+********************************/
+
+$navbar-default-bg: 			white;	
+$navbar-height:					45px;
+$navbar-default-brand-color:	#c0392b;
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+/*******************************
+Body
+********************************/
+
+$body-bg: 						#ecf0f1;
+$jumbotron-bg: 					white;
+$btn-primary-bg: 				#d35400;
+$brand-primary:					#c0392b;
+
+.container {
+	text-align: center;
+}
+
+/*******************************
+Bootstrap
+********************************/
+
+@import 'bootstrap';
+
